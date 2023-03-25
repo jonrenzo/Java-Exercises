@@ -2,4 +2,4 @@
 
 Compilation of Java Exercises
 
-[not yet finished]
+[work in progress]
